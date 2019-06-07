@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1559948028 source:/home/hericlys/Documentos/codblocks projects/contar frequencia de palavras/Kruskal/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<string.h>
+
+1559948028 source:/media/hericlys/Arquivos/UFPI/PAA/Kruskal/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<string.h>
+
